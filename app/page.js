@@ -15,7 +15,7 @@ export const metadata = {
     siteId: "1467726470533754880",
     creator: "@nextjs",
     images: {
-      url: "https://uadysa-techudaymungalpara.vercel.app/ikiotw.jpeg",
+      url: "https://uadysa-techudaymungalpara.vercel.app/do.jpeg",
       alt: "Next.js Logo",
     },
 
