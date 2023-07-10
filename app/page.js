@@ -4,18 +4,22 @@ export const metadata = {
   generator: "Next.js",
   themeColor: "cyan",
   applicationName: "uday app",
-  metadataBase: new URL("https://uadysa-techudaymungalpara.vercel.app"),
+  metadataBase: new URL("https://uadysa.vercel.app/"),
   alternates: {
     canonical: "/link",
   },
+  // i just try to check twitter card image not showing
   twitter: {
     card: "summary_large_image",
-    title: "Next.js",
+    title: "Twitter Card check ",
     description: "The React Framework for the Web",
     siteId: "1467726470533754880",
     creator: "@nextjs",
     creatorId: "1467726470533754880",
-    images: ["https://uadysa-techudaymungalpara.vercel.app/do.jpg"],
+    images: {
+      url: "https://uadysa.vercel.app//do.jpg",
+      alt: "Alt logo",
+    },
   },
 
   openGraph: {
