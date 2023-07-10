@@ -16,7 +16,7 @@ export const metadata = {
     creator: "@nextjs",
     images: [
       {
-        url: "ikiotw.jpg",
+        url: "https://uadysa-techudaymungalpara.vercel.app/ikiotw.jpg",
         alt: "Next.js Logo",
       },
     ],
