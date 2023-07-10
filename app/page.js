@@ -14,12 +14,8 @@ export const metadata = {
     description: "The React Framework for the Web",
     siteId: "1467726470533754880",
     creator: "@nextjs",
-    images: {
-      url: "https://uadysa-techudaymungalpara.vercel.app/do.jpg",
-      alt: "Next.js Logo",
-    },
-
     creatorId: "1467726470533754880",
+    images: ["https://uadysa-techudaymungalpara.vercel.app/do.jpg"],
   },
 
   // openGraph: {
