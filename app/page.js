@@ -17,7 +17,7 @@ export const metadata = {
     creator: "@nextjs",
     creatorId: "1467726470533754880",
     images: {
-      url: "https://uadysa.vercel.app//ts.png",
+      url: "https://uadysa.vercel.app/ts.png",
       alt: "Alt logo",
     },
   },
