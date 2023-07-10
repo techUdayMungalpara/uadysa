@@ -4,7 +4,7 @@ export const metadata = {
   generator: "Next.js",
   themeColor: "cyan",
   applicationName: "uday app",
-  metadataBase: new URL("https://opengraph-image-one.vercel.app/"),
+  metadataBase: new URL("https://uadysa-techudaymungalpara.vercel.app"),
   alternates: {
     canonical: "/link",
   },
@@ -14,7 +14,7 @@ export const metadata = {
       "Create a BMI Calculator using Google Forms and Google Sheets - Digital Inspiration",
     description:
       "Build your own BMI calculator app with Google Forms. The BMI report is generated in Google Sheets and the user receives an email with the BMI score.",
-    url: "https://nextjs.org",
+    url: "https://uadysa-techudaymungalpara.vercel.app",
     type: "article",
     siteName: "Next.js",
     images: [
