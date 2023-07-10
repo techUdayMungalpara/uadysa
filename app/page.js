@@ -18,31 +18,31 @@ export const metadata = {
     images: ["https://uadysa-techudaymungalpara.vercel.app/do.jpg"],
   },
 
-  // openGraph: {
-  //   title:
-  //     "Create a BMI Calculator using Google Forms and Google Sheets - Digital Inspiration",
-  //   description:
-  //     "Build your own BMI calculator app with Google Forms. The BMI report is generated in Google Sheets and the user receives an email with the BMI score.",
-  //   url: "https://uadysa-techudaymungalpara.vercel.app",
-  //   type: "article",
-  //   siteName: "Next.js",
-  //   images: [
-  //     {
-  //       url: "/ikio.jpg",
-  //       width: 800,
-  //       height: 600,
-  //       alt: "My custom alt",
-  //     },
-  //     {
-  //       url: "/ikio.jpg",
-  //       width: 1800,
-  //       height: 1600,
-  //       alt: "My custom alt",
-  //     },
-  //   ],
-  //   locale: "en_US",
-  //   type: "website",
-  // },
+  openGraph: {
+    title:
+      "Create a BMI Calculator using Google Forms and Google Sheets - Digital Inspiration",
+    description:
+      "Build your own BMI calculator app with Google Forms. The BMI report is generated in Google Sheets and the user receives an email with the BMI score.",
+    url: "https://uadysa-techudaymungalpara.vercel.app",
+    type: "article",
+    siteName: "Next.js",
+    images: [
+      {
+        url: "/ikio.jpg",
+        width: 800,
+        height: 600,
+        alt: "My custom alt",
+      },
+      {
+        url: "/ikio.jpg",
+        width: 1800,
+        height: 1600,
+        alt: "My custom alt",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function Home() {
