@@ -8,6 +8,15 @@ export const metadata = {
   alternates: {
     canonical: "/link",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Next.js",
+    description: "The React Framework for the Web",
+    siteId: "1467726470533754880",
+    creator: "@nextjs",
+    images: ["ikio.jpg"],
+    creatorId: "1467726470533754880",
+  },
 
   openGraph: {
     title:
