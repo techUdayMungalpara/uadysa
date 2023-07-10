@@ -15,7 +15,7 @@ export const metadata = {
     siteId: "1467726470533754880",
     creator: "@nextjs",
     images: {
-      url: "https://nextjs.org/og.png",
+      url: "ikiotw.jpg",
       alt: "Next.js Logo",
     },
     creatorId: "1467726470533754880",
