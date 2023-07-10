@@ -14,7 +14,10 @@ export const metadata = {
     description: "The React Framework for the Web",
     siteId: "1467726470533754880",
     creator: "@nextjs",
-    images: ["ikio.jpg"],
+    images: {
+      url: "https://nextjs.org/og.png",
+      alt: "Next.js Logo",
+    },
     creatorId: "1467726470533754880",
   },
 
